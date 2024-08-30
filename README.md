@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -55,9 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
