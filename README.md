@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Design
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
