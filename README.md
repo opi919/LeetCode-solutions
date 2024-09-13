@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Design
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
