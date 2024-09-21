@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
