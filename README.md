@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Tree
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
