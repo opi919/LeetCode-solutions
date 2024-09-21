@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/opi919/LeetCode-solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Design
 |  |
 | ------- |
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/opi919/LeetCode-solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
