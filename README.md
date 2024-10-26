@@ -80,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
 |  |
