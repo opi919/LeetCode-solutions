@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/opi919/LeetCode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Union Find
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -154,5 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/opi919/LeetCode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
