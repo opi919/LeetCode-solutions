@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
