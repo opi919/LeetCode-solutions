@@ -1,16 +1,14 @@
 # LeetCode-solutions
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum)  [for two sum problem use hash map technique] **important**|
-| [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] [important]|
-| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) | [Use hash map technique] 🔴 **important** |
+| [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 **important** |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algo] 🔴 **important** |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
