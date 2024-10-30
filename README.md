@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum)  (for two sum problem use hash map technique)|
+|<img class="gfg-preview-carousel-img bg" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp">|
 | [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) (using map)|
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
