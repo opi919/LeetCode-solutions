@@ -8,7 +8,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) [Use hash map technique] 🔴 **important** |
 | [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 **important** |
-| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algo] 🔴 **important** |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algorithm] 🔴 **important** |
+|<img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp"> 
+<img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp"> |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
