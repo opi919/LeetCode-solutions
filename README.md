@@ -44,8 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree)  🔴 **important** |
+| [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) 🔴 **important** |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
@@ -55,7 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree)  🔴 **important** |
 | [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
@@ -92,7 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) 🔴 **important** |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -106,15 +106,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
-| [0125-valid-palindrome](https://github.com/opi919/LeetCode-solutions/tree/master/0125-valid-palindrome) |
-| [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0125-valid-palindrome](https://github.com/opi919/LeetCode-solutions/tree/master/0125-valid-palindrome) 🔴 **important** |
+| [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) 🔴 **important** |
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) 🔴 **important** |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Stack
 |  |
