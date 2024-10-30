@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum)  (for two sum problem use hash map technique)|
 | [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) (using map)|
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
