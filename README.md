@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) | [Use hash map technique] 🔴 **important** |
+| [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) [Use hash map technique] 🔴 **important** |
 | [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 **important** |
 | [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algo] 🔴 **important** |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
