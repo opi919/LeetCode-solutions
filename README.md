@@ -35,7 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/opi919/LeetCode-solutions/tree/master/0141-linked-list-cycle) [slow fast pointer, <b>Note:</b> apply condition in last because their starting point same]  🔴 **important** |
-| [0160-intersection-of-two-linked-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) [match the length first then compare] 🔴 **important** |
 | [0206-reverse-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0206-reverse-linked-list)  [using stack] 🔴 **important** |
 | [0234-palindrome-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0234-palindrome-linked-list) [compare string]  🔴 **important** |
 | [0237-delete-node-in-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
