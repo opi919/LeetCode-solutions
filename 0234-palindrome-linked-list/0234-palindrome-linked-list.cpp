@@ -11,15 +11,17 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        string str,str2;
-        while(head){
-            str+=head->val;
-            head = head->next;
-        }
-str2 = str;
-        reverse(str.begin(),str.end());
+       string str,str2;
 
-        if(str == str2) return true;
-        else return false;
+       while(head){
+        str += head->val;
+        head = head->next;
+       }
+
+       str2 = str;
+       reverse(str.begin(),str.end());
+
+       if(str2 == str) return true;
+       else return false;
     }
 };
