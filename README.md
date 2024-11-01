@@ -42,7 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/opi919/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) [Use a dummy node and store value that doesn't match] 🔴 **important** |
 | [0206-reverse-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0206-reverse-linked-list)  [using stack] 🔴 **important** |
 | [0234-palindrome-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0234-palindrome-linked-list) [compare string]  🔴 **important** |
-| [0237-delete-node-in-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list)  [check node->next->next exist or not] 🔴 **important** |
 | [0328-odd-even-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) [slow fast pointer] 🔴 **important**  |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
