@@ -124,7 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) 🔴 **important** |
+| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) 🔴 **important**   <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0238-product-of-array-except-self/solution.png" />  |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Stack
 |  |
