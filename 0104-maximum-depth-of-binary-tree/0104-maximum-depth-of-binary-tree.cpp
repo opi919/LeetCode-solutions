@@ -11,17 +11,20 @@
  */
 class Solution {
 public:
-int treverse(TreeNode* node,int count){
-    if(node == NULL) return count;
-    count++;
-    int left = treverse(node->left,count);
-    int right = treverse(node->right,count);
+    void treverse(TreeNode* root,int count,int &result){
+        if(!root) {
+            result = max(result,count);
+            return;
+        }
 
-    return max(left,right);
-}
+        count++;
+        treverse(root->left,count,result);
+        treverse(root->right,count,result);
+    }
     int maxDepth(TreeNode* root) {
-        int count = 0;
-        int ans = treverse(root,count);
-        return ans;
+        int result = 0;
+        treverse(root,0,result);
+
+        return result;
     }
 };
