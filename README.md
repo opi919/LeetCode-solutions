@@ -1,16 +1,17 @@
 # LeetCode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) </br></br></br>
+🔴**important**  </br>
+🔴🔴🔴**very very important**
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) [Use hash map technique] 🔴 **important** |
-| [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 **important** |
-| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algorithm] 🔴 **important** <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" width="450">  <img class="gfg-preview-carousel-img bg" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" width="450"> <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" width="450">|
+| [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) [Use hash map technique] 🔴 |
+| [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algorithm] 🔴 <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" width="450">  <img class="gfg-preview-carousel-img bg" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" width="450"> <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" width="450">|
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock)  [**store max diff in each iteration**] 🔴 **important** |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock)  [**store max diff in each iteration**] 🔴 |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -35,41 +36,41 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) [Use a dummy node to build and return the merged list's head easily] 🔴 **important** |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/opi919/LeetCode-solutions/tree/master/0083-remove-duplicates-from-sorted-list)  [Use a dummy node and store value that doesn't match] 🔴 **important**  |
+| [0021-merge-two-sorted-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) [Use a dummy node to build and return the merged list's head easily] 🔴 |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/opi919/LeetCode-solutions/tree/master/0083-remove-duplicates-from-sorted-list)  [Use a dummy node and store value that doesn't match] 🔴  |
 | [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/opi919/LeetCode-solutions/tree/master/0141-linked-list-cycle) [slow fast pointer, <b>Note:</b> apply condition in last because their starting point same]  🔴 **important** |
-| [0160-intersection-of-two-linked-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) [match the length first then compare] 🔴 **important** |
-| [0203-remove-linked-list-elements](https://github.com/opi919/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) [Use a dummy node and store value that doesn't match] 🔴 **important** |
-| [0206-reverse-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0206-reverse-linked-list)  [using stack] 🔴 **important** |
-| [0234-palindrome-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0234-palindrome-linked-list) [compare string]  🔴 **important** |
-| [0237-delete-node-in-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list)  [check node->next->next exist or not] 🔴 **important** |
+| [0141-linked-list-cycle](https://github.com/opi919/LeetCode-solutions/tree/master/0141-linked-list-cycle) [slow fast pointer, <b>Note:</b> apply condition in last because their starting point same]  🔴 |
+| [0160-intersection-of-two-linked-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) [match the length first then compare] 🔴 |
+| [0203-remove-linked-list-elements](https://github.com/opi919/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) [Use a dummy node and store value that doesn't match] 🔴 |
+| [0206-reverse-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0206-reverse-linked-list)  [using stack] 🔴 |
+| [0234-palindrome-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0234-palindrome-linked-list) [compare string]  🔴 |
+| [0237-delete-node-in-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list)  [check node->next->next exist or not] 🔴 |
 | [0328-odd-even-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
-| [0908-middle-of-the-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) [slow fast pointer] 🔴 **important**  |
+| [0908-middle-of-the-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) [slow fast pointer] 🔴  |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) [if both node exist and value same then continue otherwise false]  🔴 **important** |
-| [0101-symmetric-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0101-symmetric-tree)  [compare left->left with right->right and left->right with right->left]  🔴 **important** |
-| [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) 🔴 **important** |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree)  🔴🔴🔴 **important** To balance a BST tree follow the rules below: <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0108-convert-sorted-array-to-binary-search-tree/Screenshot%202024-11-04%20233651.png" />|
-| [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  [calculate minimum only in leaf node **Note: handle null root**] 🔴 **important** |
+| [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) [if both node exist and value same then continue otherwise false]  🔴 |
+| [0101-symmetric-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0101-symmetric-tree)  [compare left->left with right->right and left->right with right->left]  🔴 |
+| [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) 🔴 |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree)  🔴🔴🔴 To balance a BST tree follow the rules below: <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0108-convert-sorted-array-to-binary-search-tree/Screenshot%202024-11-04%20233651.png" />|
+| [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  [calculate minimum only in leaf node **Note: handle null root**] 🔴 |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/opi919/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
-| [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes)  🔴 **important**  <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0222-count-complete-tree-nodes/Screenshot%202024-11-02%20214014.png"/>  |
-| [0226-invert-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0226-invert-binary-tree)  [just swap left and right if the node is not leaf node]  🔴 **important** |
+| [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes)  🔴🔴🔴  <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0222-count-complete-tree-nodes/Screenshot%202024-11-02%20214014.png"/>  |
+| [0226-invert-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0226-invert-binary-tree)  [just swap left and right if the node is not leaf node]  🔴 |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
-| [0617-merge-two-binary-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0617-merge-two-binary-trees)  [Recursively merge the left and right children of both trees]  🔴🔴🔴 **important** |
+| [0617-merge-two-binary-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0617-merge-two-binary-trees)  [Recursively merge the left and right children of both trees]  🔴🔴🔴 |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree)  🔴 **important** |
+| [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree)  🔴 |
 | [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -102,16 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree)  🔴 **important**  |
+| [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree)  🔴  |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  🔴 **important** |
+| [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  🔴 |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/opi919/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
-| [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes)  🔴 **important** |
+| [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes)  🔴 |
 | [0226-invert-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
-| [0617-merge-two-binary-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0617-merge-two-binary-trees) 🔴 **important** |
+| [0617-merge-two-binary-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0617-merge-two-binary-trees) 🔴 |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -122,7 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) 🔴 **important** |
+| [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) 🔴 |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Two Pointers
@@ -140,15 +141,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
-| [0125-valid-palindrome](https://github.com/opi919/LeetCode-solutions/tree/master/0125-valid-palindrome) 🔴 **important** |
-| [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) 🔴 **important** |
+| [0125-valid-palindrome](https://github.com/opi919/LeetCode-solutions/tree/master/0125-valid-palindrome) 🔴 |
+| [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) 🔴 |
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) 🔴 **important**   <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0238-product-of-array-except-self/solution.png" />  |
+| [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) 🔴   <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0238-product-of-array-except-self/solution.png" />  |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Stack
 |  |
