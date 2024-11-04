@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) [Use hash map technique] 🔴 **important** |
 | [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 **important** |
 | [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algorithm] 🔴 **important** <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" width="450">  <img class="gfg-preview-carousel-img bg" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" width="450"> <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" width="450">|
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock)  [**store max diff in each iteration**] 🔴 **important** |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) [if both node exist and value same then continue otherwise false]  🔴 **important** |
 | [0101-symmetric-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0101-symmetric-tree)  [compare left->left with right->right and left->right with right->left]  🔴 **important** |
 | [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) 🔴 **important** |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  [calculate minimum only in leaf node **Note: handle null root**] 🔴 **important** |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree)  🔴 **important**  |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  🔴 **important** |
 | [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
@@ -224,8 +227,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
