@@ -11,13 +11,12 @@
  */
 class Solution {
 public:
-bool treverse(TreeNode* root,long min,long max){
-    if(!root) return true;
-    if(root->val<=min || root->val>=max) return false;
-    return treverse(root->left,min,root->val) && treverse(root->right,root->val,max);
-}
+    bool treverse(TreeNode* root,long min,long max){
+        if(!root) return true;
+        if((root->val>min && root->val<max) && treverse(root->left,min,root->val) && treverse(root->right,root->val,max)) return true;
+        else return false;
+    }
     bool isValidBST(TreeNode* root) {
-       bool result =  treverse(root,LONG_MIN,LONG_MAX);
-       return result;
+        return treverse(root,LONG_MIN,LONG_MAX);
     }
 };
