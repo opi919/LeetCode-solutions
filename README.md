@@ -58,7 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree)  🔴🔴🔴 To balance a BST tree follow the rules below: <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0108-convert-sorted-array-to-binary-search-tree/Screenshot%202024-11-04%20233651.png" />|
 | [0110-balanced-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0110-balanced-binary-tree) [calculate height for each node and check height is between -1 to 1 or not]  🔴🔴🔴 |
 | [0111-minimum-depth-of-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0111-minimum-depth-of-binary-tree)  [calculate minimum only in leaf node **Note: handle null root**] 🔴 |
-| [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0112-path-sum) [check target sum only in leaf node] 🔴 |
 | [0113-path-sum-ii](https://github.com/opi919/LeetCode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/opi919/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes)  🔴🔴🔴  <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0222-count-complete-tree-nodes/Screenshot%202024-11-02%20214014.png"/>  |
