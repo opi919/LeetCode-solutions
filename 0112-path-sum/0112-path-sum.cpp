@@ -11,25 +11,25 @@
  */
 class Solution {
 public:
-bool found = false;
-int count = 0;
-    void treverse(TreeNode* node,int sum,int targetSum){
-        if(!node) return;
-                sum += node->val;
-        if(!node->left  && !node->right){
-            cout<<sum<<endl;
-            if(sum == targetSum) found = true;
-            return;
+    bool treverse(TreeNode* root,int sum,int targetSum){
+        if(!root){
+            return false;
         }
-        if(node->left) treverse(node->left,sum,targetSum);   
-        if(node->right) treverse(node->right,sum,targetSum);  
-        // cout<<leftSum<<endl;
-        // cout<<rightSum<<endl;
+
+        sum+=root->val;
+        if(!root->left && !root->right){
+            cout<<sum<<endl;
+            if(targetSum == sum) return true;
+            else return false;
+        }
+
+        return treverse(root->left,sum,targetSum) || treverse(root->right,sum,targetSum);
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        
-        treverse(root,0,targetSum);
-        // cout<<sum<<endl;
-        return found;
+        if(!root) return false;
+
+       bool result = treverse(root,0,targetSum); 
+
+       return result;
     }
 };
