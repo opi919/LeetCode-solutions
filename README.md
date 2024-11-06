@@ -63,7 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/opi919/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes)  🔴🔴🔴  <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0222-count-complete-tree-nodes/Screenshot%202024-11-02%20214014.png"/>  |
 | [0226-invert-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0226-invert-binary-tree)  [just swap left and right if the node is not leaf node]  🔴 |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) 🔴🔴🔴 <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0235-lowest-common-ancestor-of-a-binary-search-tree/Screenshot%202024-11-07%20000031.png" /> |
 | [0437-path-sum-iii](https://github.com/opi919/LeetCode-solutions/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0617-merge-two-binary-trees)  [Recursively merge the left and right children of both trees]  🔴🔴🔴 |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
