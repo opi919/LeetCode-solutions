@@ -69,7 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0572-subtree-of-another-tree)  [if root->val == subRoot->val then compare it and also check for other node that can be sub tree] 🔴🔴🔴 |
 | [0617-merge-two-binary-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0617-merge-two-binary-trees)  [Recursively merge the left and right children of both trees]  🔴🔴🔴 |
 | [0904-leaf-similar-trees](https://github.com/opi919/LeetCode-solutions/tree/master/0904-leaf-similar-trees) |
-| [0975-range-sum-of-bst](https://github.com/opi919/LeetCode-solutions/tree/master/0975-range-sum-of-bst) |
+| [0975-range-sum-of-bst](https://github.com/opi919/LeetCode-solutions/tree/master/0975-range-sum-of-bst) 🔴 |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
