@@ -17,7 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/opi919/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0283-move-zeroes](https://github.com/opi919/LeetCode-solutions/tree/master/0283-move-zeroes) 🔴 |
 | [0735-asteroid-collision](https://github.com/opi919/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
