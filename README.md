@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock)  [**store max diff in each iteration**] 🔴 |
 | [0136-single-number](https://github.com/opi919/LeetCode-solutions/tree/master/0136-single-number) [details in bit manipulation] 🔴 |
+| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/opi919/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/opi919/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/opi919/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/opi919/LeetCode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/opi919/LeetCode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/opi919/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
