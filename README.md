@@ -13,7 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock)  [**store max diff in each iteration**] 🔴 |
 | [0136-single-number](https://github.com/opi919/LeetCode-solutions/tree/master/0136-single-number) [details in bit manipulation] 🔴 |
-| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) 🔴🔴🔴 <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0169-majority-element/Screenshot%202024-11-09%20233947.png" /> |
+| [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) 🔴🔴🔴 [**Moore's Voting Algorithm**] <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0169-majority-element/Screenshot%202024-11-09%20233947.png" /> |
 | [0200-number-of-islands](https://github.com/opi919/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/opi919/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/opi919/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
