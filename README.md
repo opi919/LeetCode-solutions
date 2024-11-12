@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/opi919/LeetCode-solutions/tree/master/0001-two-sum) [Use hash map technique] 🔴 |
+| [0035-search-insert-position](https://github.com/opi919/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/opi919/LeetCode-solutions/tree/master/0041-first-missing-positive) [using map] 🔴 |
 | [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) [maximum subarray sum - kadane's algorithm] 🔴 <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-1.webp" width="450">  <img class="gfg-preview-carousel-img bg" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115017/Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-2.webp" width="450"> <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-3.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115018/Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-4.webp" width="450">   <img class="gfg-preview-carousel-img" src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" data-src="https://media.geeksforgeeks.org/wp-content/uploads/20240906115019/Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" alt="Maximum-Subarray-Sum-using-Kadanes-Algorithm-5.webp" width="450">|
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/opi919/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/opi919/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
