@@ -244,7 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
-| [0035-search-insert-position](https://github.com/opi919/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0035-search-insert-position](https://github.com/opi919/LeetCode-solutions/tree/master/0035-search-insert-position)  [for each mid check its left and right neighbor] 🔴🔴🔴 |
 | [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
