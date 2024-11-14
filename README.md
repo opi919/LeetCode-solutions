@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/opi919/LeetCode-solutions/tree/master/0053-maximum-subarray) 🔴 |
 | [0070-climbing-stairs](https://github.com/opi919/LeetCode-solutions/tree/master/0070-climbing-stairs)  🔴🔴🔴 <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0070-climbing-stairs/Screenshot%202024-11-07%20230748.png" /> |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/opi919/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/opi919/LeetCode-solutions/tree/master/0136-single-number)  [**Hint :** XOR of two equal numbers gives 0] 🔴 |
 | [0222-count-complete-tree-nodes](https://github.com/opi919/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/opi919/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/opi919/LeetCode-solutions/tree/master/0338-counting-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
