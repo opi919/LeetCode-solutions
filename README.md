@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/opi919/LeetCode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -293,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/opi919/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/opi919/LeetCode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/opi919/LeetCode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
