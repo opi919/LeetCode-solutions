@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/opi919/LeetCode-solutions/tree/master/0070-climbing-stairs)  🔴🔴🔴 <img src="https://github.com/opi919/LeetCode-solutions/blob/main/0070-climbing-stairs/Screenshot%202024-11-07%20230748.png" /> |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/opi919/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/opi919/LeetCode-solutions/tree/master/0338-counting-bits) [same as we do for writing all binary in note] 🔴🔴🔴 |
+| [0392-is-subsequence](https://github.com/opi919/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/opi919/LeetCode-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/opi919/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/opi919/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/opi919/LeetCode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/opi919/LeetCode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) 🔴 |
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/opi919/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/opi919/LeetCode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) [string compare] 🔴 |
 ## Prefix Sum
