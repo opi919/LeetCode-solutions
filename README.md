@@ -170,7 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/opi919/LeetCode-solutions/tree/master/0014-longest-common-prefix) [just need to match from first] 🔴 |
 | [0020-valid-parentheses](https://github.com/opi919/LeetCode-solutions/tree/master/0020-valid-parentheses) [Difference between parentheses ASCII value is 1 or 2] 🔴 |
-| [0058-length-of-last-word](https://github.com/opi919/LeetCode-solutions/tree/master/0058-length-of-last-word) |
+| [0058-length-of-last-word](https://github.com/opi919/LeetCode-solutions/tree/master/0058-length-of-last-word)  🔴|
 | [0125-valid-palindrome](https://github.com/opi919/LeetCode-solutions/tree/master/0125-valid-palindrome) 🔴 |
 | [0168-excel-sheet-column-title](https://github.com/opi919/LeetCode-solutions/tree/master/0168-excel-sheet-column-title) 🔴 |
 | [0344-reverse-string](https://github.com/opi919/LeetCode-solutions/tree/master/0344-reverse-string) |
