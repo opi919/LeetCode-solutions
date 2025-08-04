@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/opi919/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/opi919/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/opi919/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/opi919/LeetCode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/opi919/LeetCode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) [string compare] 🔴 |
 ## Prefix Sum
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/opi919/LeetCode-solutions/tree/master/0169-majority-element) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/opi919/LeetCode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Trie
 |  |
 | ------- |
