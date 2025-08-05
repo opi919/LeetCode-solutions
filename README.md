@@ -27,7 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/opi919/LeetCode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/opi919/LeetCode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/opi919/LeetCode-solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
-| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/opi919/LeetCode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/opi919/LeetCode-solutions/tree/master/2518-the-employee-that-worked-on-the-longest-task) [**id is not sorted, so it can be lower in any index**] 🔴🔴🔴 |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/opi919/LeetCode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Design
 |  |
